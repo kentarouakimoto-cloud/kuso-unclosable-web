@@ -6,7 +6,7 @@ from streamlit.components.v1 import html
 ACCENT = "#4da6ff"   # ← ここを好きな色コードに変える（例: "#ff6b6b"）
 BG_COLOR = "#0f1724"
 TEXT_COLOR = "#0404F9"
-TITLE = "🔒 終了できないページ（Web版）"
+TITLE = "🔒 終了できないページ"
 HEIGHT = 420
 # -----------------------------------------------------------------
 
